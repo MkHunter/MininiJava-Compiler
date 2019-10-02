@@ -1,0 +1,18 @@
+class mayor{
+	public static void main(String [] args){
+		int var;
+		int numB;
+		int M;
+		boolean tf;
+		String s;
+		tf = true;
+		M = 3;
+		if(var==numB) {
+			M=var+3+3;
+			print('ASD');
+		} else {
+			M=numB;
+		}		
+		print(str);
+	}
+}

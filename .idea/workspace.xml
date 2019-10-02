@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68d40e3c-3c12-4e8b-8733-0fdf5eb5705a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>j++</find>
+      <find>j++;</find>
+      <find>ObtPrio</find>
+      <find>ObtPrio(</find>
+      <find>Obt</find>
+      <find>System.</find>
+      <find>aplicarOp</find>
+      <find>intermedio</find>
+      <find>Intermedio</find>
+      <find>.add</find>
+      <find>.YELLO</find>
+      <find>System.out</find>
+      <find>MOV</find>
+      <find>MOV EAX</find>
+      <find>R1</find>
+      <find>l[1</find>
+      <find>inmV</find>
+      <find>System.ou</find>
+      <find>SUB</find>
+      <find>EAX</find>
+      <find>r1,</find>
+      <find>(r1</find>
+      <find>IsinMemory</find>
+      <find>IsinMem</find>
+      <find>siz</find>
+      <find>var</find>
+      <find>printVar</find>
+      <find>System</find>
+      <find>8</find>
+      <find>\t</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Maquina</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1Q6V555Dx97RlFtG7ttlZPgOUFN" />
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558630745830" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\migue\IdeaProjects\Compiler\src" />
+      <recent name="C:\Users\migue\IdeaProjects\Compiler" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\migue\IdeaProjects\Compiler\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ventana">
+    <configuration name="GUILayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUILayer" />
+      <module name="Compiler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MachineTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Maquina" />
+      <module name="Compiler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ventana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ventana" />
+      <module name="Compiler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MachineTest" />
+      <item itemvalue="Application.GUILayer" />
+      <item itemvalue="Application.Ventana" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ventana" />
+        <item itemvalue="Application.GUILayer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68d40e3c-3c12-4e8b-8733-0fdf5eb5705a" name="Default Changelist" comment="" />
+      <created>1551235555052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551235555052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Operaciones.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
